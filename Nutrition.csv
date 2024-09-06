@@ -1,0 +1,51 @@
+Nutrition_id,user_id,meal_type,Food_type,Calories
+1,1,lunch,brown rics,150
+2,1,dinner,chicken breast,210
+3,2,snack,chicken breast,270
+4,2,breakfast,Oatmeal with Fruit & Nuts,250
+5,3,snack,salad,300
+6,3,breakfast,chicken breast,300
+7,3,snack,sweet potato,160
+8,4,snack,salad,150
+9,4,lunch,brown rics,150
+10,5,breakfast,Oatmeal with Fruit & Nuts,300
+11,5,breakfast,Oatmeal with Fruit & Nuts,160
+12,5,snack,brown rics,280
+13,6,snack,salad,220
+14,6,breakfast,chicken breast,280
+15,7,dinner,brown rics,160
+16,7,breakfast,salad,280
+17,8,breakfast,sweet potato,190
+18,8,lunch,Oatmeal with Fruit & Nuts,220
+19,9,lunch,brown rics,150
+20,9,lunch,brown rics,270
+21,10,dinner,chicken breast,270
+22,11,lunch,salad,160
+23,12,breakfast,Oatmeal with Fruit & Nuts,250
+24,13,lunch,chicken breast,220
+25,15,snack,brown rics,280
+26,16,snack,salad,270
+27,17,breakfast,salad,180
+28,18,lunch,Oatmeal with Fruit & Nuts,160
+29,19,dinner,sweet potato,210
+30,20,breakfast,sweet potato,280
+31,21,snack,brown rics,160
+32,22,dinner,Oatmeal with Fruit & Nuts,270
+33,23,dinner,chicken breast,300
+34,24,breakfast,chicken breast,190
+35,25,dinner,salad,220
+36,26,breakfast,chicken breast,280
+37,27,snack,chicken breast,180
+38,28,breakfast,chicken breast,280
+39,29,dinner,Oatmeal with Fruit & Nuts,250
+40,30,breakfast,Oatmeal with Fruit & Nuts,190
+41,31,breakfast,chicken breast,270
+42,32,dinner,salad,250
+43,33,breakfast,sweet potato,150
+44,34,lunch,brown rics,190
+45,35,snack,brown rics,270
+46,36,dinner,sweet potato,180
+47,37,snack,sweet potato,150
+48,38,dinner,Oatmeal with Fruit & Nuts,190
+49,39,dinner,sweet potato,280
+50,40,snack,chicken breast,220

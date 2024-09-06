@@ -1,0 +1,51 @@
+activity_id,user_id,Exercise_Type,weather_conditions,CaloriesBurned,Date
+1,1,aerobics,rainy,200,01-01-2024
+2,1,yoga,snowy,240,02-01-2024
+3,2,yoga,sunny,200,03-01-2024
+4,2,cycling,windy,240,04-01-2024
+5,3,zumba,windy,180,05-01-2024
+6,3,crossfit,windy,420,06-01-2024
+7,3,aerobics,snowy,240,07-01-2024
+8,4,aerobics,cloudy,275,08-01-2024
+9,4,cycling,windy,420,09-01-2024
+10,5,Weightlifting,sunny,260,10-01-2024
+11,5,Weightlifting,snowy,200,11-01-2024
+12,5,yoga,sunny,420,12-01-2024
+13,6,Weightlifting,snowy,390,13-01-2024
+14,6,yoga,foggy,275,14-01-2024
+15,7,zumba,rainy,260,15-01-2024
+16,7,cycling,windy,275,16-01-2024
+17,8,cardio,snowy,240,17-01-2024
+18,8,crossfit,sunny,275,18-01-2024
+19,9,crossfit,foggy,200,19-01-2024
+20,9,crossfit,snowy,260,20-01-2024
+21,10,Weightlifting,cloudy,420,21-01-2024
+22,11,crossfit,snowy,275,22-01-2024
+23,12,strength training,snowy,180,23-01-2024
+24,13,cycling,snowy,275,24-01-2024
+25,15,strength training,sunny,260,25-01-2024
+26,16,cycling,sunny,390,26-01-2024
+27,17,cardio,windy,275,27-01-2024
+28,18,aerobics,sunny,330,28-01-2024
+29,19,cardio,windy,390,29-01-2024
+30,20,aerobics,windy,200,30-01-2024
+31,21,zumba,foggy,260,31-01-2024
+32,22,Weightlifting,foggy,180,01-02-2024
+33,23,strength training,foggy,200,02-02-2024
+34,24,Weightlifting,sunny,330,03-02-2024
+35,25,crossfit,foggy,420,04-02-2024
+36,26,Weightlifting,windy,310,05-02-2024
+37,27,yoga,foggy,390,06-02-2024
+38,28,yoga,sunny,330,07-02-2024
+39,29,Weightlifting,foggy,200,08-02-2024
+40,30,cardio,cloudy,420,09-02-2024
+41,31,cycling,sunny,330,10-02-2024
+42,32,yoga,snowy,330,11-02-2024
+43,33,strength training,windy,310,12-02-2024
+44,34,cycling,sunny,310,13-02-2024
+45,35,strength training,cloudy,330,14-02-2024
+46,36,crossfit,foggy,200,15-02-2024
+47,37,cardio,cloudy,350,16-02-2024
+48,38,aerobics,snowy,310,17-02-2024
+49,39,Weightlifting,snowy,420,18-02-2024
+50,40,aerobics,foggy,390,19-02-2024
